@@ -1,4 +1,4 @@
-![](https://hacktoberfest.digitalocean.com/_nuxt/img/logo-hacktoberfest-full.f42e3b1.svg)
+![](https://github.com/hctnm2/OpenSourceEnthusiast/raw/main/.assets/HFest2022.png)
 
 ## FORK, FIX, PR — that's all it takes
 
