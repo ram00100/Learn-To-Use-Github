@@ -64,7 +64,6 @@
 # Recommended Repos
 
 - <https://github.com/hctnm1/HacktoberFest-Python/>
-- <https://github.com/hctnm2/Beginner-Hacktoberfest>
-- <https://github.com/hctnm2/hacktoberfest-2021>
-- <https://github.com/roshankcpkr/Hacktoberfest-web>
-- <https://github.com/V35HR4J/Your-First-Contribution>
+- <https://github.com/hctnm1/Learn-To-Use-Github/>
+- <https://github.com/hctnm2/hacktoberfest-2022>
+- <https://github.com/hctnm2/OpenSourceEnthusiast>
