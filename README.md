@@ -18,7 +18,7 @@
 | Prometheus                                             |Programming               |
 | John Henry                                             |Programming               |
 | Arizki Putra Rahman                                    |Web Developer             |
-| HCTN 03                                                |Programming               |
+| HCTN 01                                                |Programming               |
 | Dhruv Deora                                            | Web Developer,ML/AI      |
 | Plankton                                               | Cybersecurity            |
 | Huda Damar                                             | Frontend Web Programming |
