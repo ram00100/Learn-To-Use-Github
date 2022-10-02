@@ -57,8 +57,8 @@
 
 # :handshake: Our Contributors
 
-<a href="https://github.com/hctnm1/HacktoberFest-2021/graphs/contributors">
-  <img src="https://contrib.rocks/image?repo=hctnm1/HacktoberFest-2021" />
+<a href="https://github.com/hctnm1/Learn-To-Use-Github/graphs/contributors">
+  <img src="https://contrib.rocks/image?repo=hctnm1/Learn-To-Use-Github" />
 </a>
 
 # Recommended Repos
