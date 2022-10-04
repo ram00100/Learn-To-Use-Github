@@ -44,6 +44,7 @@
 | Banshaj Paudel                      | Cybersecurity, IoT, Programming, Automation |
 | Bibek                                                  | Web Dev                  |
 | Holdee                                                 | Python                   |
+| Chidambaram Sathappan                                  | Web Development          |
 | _Your Name_                                            | _Intrests_               |
  
 
