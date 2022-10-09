@@ -1,3 +1,9 @@
 labels:
-  'hacktoberfest-accepted': 
+  'approved': 
     action: merge
+
+merges:
+  - action : label
+  labels:
+  - hacktoberfest-accepted
+  - good-first-issue
