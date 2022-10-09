@@ -1,5 +1,5 @@
 labels:
-  'approved': 
+  approved: 
     action: merge
   'hacktoberfest-accepted':
     action: merge
@@ -10,6 +10,7 @@ commits:
     labels:
       - good first issue
       - hacktoberfest-accepted
+      
   comments:
   - action: label
     pattern: /Thanks for/i
