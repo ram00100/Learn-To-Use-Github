@@ -7,7 +7,7 @@ labels:
 
 commits:
   - action: label
-    pattern: /Create/i
+    pattern: /Create /i
     labels:
       - good first issue
       - hacktoberfest-accepted
