@@ -3,17 +3,3 @@ labels:
     action: merge
   'hacktoberfest-accepted':
     action: merge
-
-commits:
-  - action: label
-    pattern: /Create /i
-    labels:
-      - good first issue
-      - hacktoberfest-accepted
-      
-  comments:
-  - action: label
-    pattern: /Thanks for/i
-    labels: 
-      - good first issue
-      - hacktoberfest-accepted
