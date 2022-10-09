@@ -4,5 +4,5 @@ labels:
 
 merges:
   - action : label
-  labels:
-  - good first issue
+    labels:
+      - good first issue
