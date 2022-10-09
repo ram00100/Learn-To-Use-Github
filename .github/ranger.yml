@@ -1,0 +1,8 @@
+labels:
+  'approved (squash)': 
+    action: merge
+    merges: 
+      - action : label
+        labels:
+          - hacktoberfest-accepted
+          - good-first-issue
